@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c095c65-6994-4b41-b23c-0b56f0973a73" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a30VMrNJyo1GYm9FV3Ww4z9EqL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ALPHA" />
+      <recent name="Calculadora" />
+      <recent name="COVID19" />
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ALPHA" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Alpha\src\main\java\COVID" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.uiTest.testCalculadora">
+    <configuration name="COVID19 in Alpha.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Alpha.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="COVID19.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="COVID19" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IdentificaEmpleadosEnRiesgoTest.getListaEmpleadoEnRiesgo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Alpha.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="COVID19.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="COVID19" />
+      <option name="MAIN_CLASS_NAME" value="COVID19.IdentificaEmpleadosEnRiesgoTest" />
+      <option name="METHOD_NAME" value="getListaEmpleadoEnRiesgo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriajeDeCadaPacienteTest.esPersonaEnRiesgo_EnRiesgo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Alpha.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="COVID19.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="COVID19" />
+      <option name="MAIN_CLASS_NAME" value="COVID19.TriajeDeCadaPacienteTest" />
+      <option name="METHOD_NAME" value="esPersonaEnRiesgo_EnRiesgo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uiTest.testCalculadora" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Alpha.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ui" />
+      <option name="MAIN_CLASS_NAME" value="ui.uiTest" />
+      <option name="METHOD_NAME" value="testCalculadora" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uiTest.testNewtours" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Alpha.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ui" />
+      <option name="MAIN_CLASS_NAME" value="ui.uiTest" />
+      <option name="METHOD_NAME" value="testNewtours" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.uiTest.testCalculadora" />
+        <item itemvalue="JUnit.uiTest.testNewtours" />
+        <item itemvalue="JUnit.TriajeDeCadaPacienteTest.esPersonaEnRiesgo_EnRiesgo" />
+        <item itemvalue="JUnit.COVID19 in Alpha.test" />
+        <item itemvalue="JUnit.IdentificaEmpleadosEnRiesgoTest.getListaEmpleadoEnRiesgo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c095c65-6994-4b41-b23c-0b56f0973a73" name="Default Changelist" comment="" />
+      <created>1585948992041</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585948992041</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3794" y="-559" key="#Project_Structure" timestamp="1587238019615">
+      <screen x="3200" y="-776" width="1920" height="1040" />
+    </state>
+    <state x="3794" y="-559" key="#Project_Structure/0.0.2133.1160/3200.-776.1920.1040@3200.-776.1920.1040" timestamp="1587238019615" />
+    <state x="660" y="242" key="#Project_Structure/0.0.2133.1160@0.0.2133.1160" timestamp="1585949366530" />
+    <state x="795" y="284" key="#Tests_in_'CALC'" timestamp="1586111016325">
+      <screen x="0" y="0" width="2133" height="1160" />
+    </state>
+    <state x="795" y="284" key="#Tests_in_'CALC'/0.0.2133.1160@0.0.2133.1160" timestamp="1586111016325" />
+    <state x="522" y="238" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586111008529">
+      <screen x="0" y="0" width="2133" height="1160" />
+    </state>
+    <state x="522" y="238" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2133.1160@0.0.2133.1160" timestamp="1586111008529" />
+    <state x="3986" y="-516" key="#com.intellij.ide.util.MemberChooser" timestamp="1587247289353">
+      <screen x="3200" y="-776" width="1920" height="1040" />
+    </state>
+    <state x="786" y="260" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586782976813" />
+    <state x="3986" y="-516" key="#com.intellij.ide.util.MemberChooser/0.0.2133.1160/3200.-776.1920.1040@3200.-776.1920.1040" timestamp="1587247289353" />
+    <state x="873" y="290" key="#com.intellij.ide.util.MemberChooser/0.0.2133.1160/700.-1080.1920.1040@0.0.2133.1160" timestamp="1586548306337" />
+    <state x="873" y="290" key="#com.intellij.ide.util.MemberChooser/0.0.2133.1160@0.0.2133.1160" timestamp="1586726972480" />
+    <state x="267" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586779609685">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="267" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586779609685" />
+    <state x="297" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.2133.1160@0.0.2133.1160" timestamp="1586116641373" />
+    <state width="485" height="418" key="DebuggerActiveHint" timestamp="1587247915848">
+      <screen x="3200" y="-776" width="1920" height="1040" />
+    </state>
+    <state width="485" height="418" key="DebuggerActiveHint/0.0.2133.1160/3200.-776.1920.1040@3200.-776.1920.1040" timestamp="1587247915848" />
+    <state width="482" height="466" key="DebuggerActiveHint/0.0.2133.1160@0.0.2133.1160" timestamp="1586727721926" />
+    <state x="1221" y="235" key="FileChooserDialogImpl" timestamp="1586776140636">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1221" y="235" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586776140636" />
+    <state width="1877" height="198" key="GridCell.Tab.0.bottom" timestamp="1587250346487">
+      <screen x="0" y="0" width="2133" height="1160" />
+    </state>
+    <state width="1877" height="211" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586783372767" />
+    <state width="2090" height="196" key="GridCell.Tab.0.bottom/0.0.2133.1160/3200.-776.1920.1040@0.0.2133.1160" timestamp="1586552716559" />
+    <state width="1877" height="244" key="GridCell.Tab.0.bottom/0.0.2133.1160/3200.-776.1920.1040@3200.-776.1920.1040" timestamp="1587248783162" />
+    <state width="2090" height="196" key="GridCell.Tab.0.bottom/0.0.2133.1160/700.-1080.1920.1040@0.0.2133.1160" timestamp="1586550348772" />
+    <state width="1877" height="198" key="GridCell.Tab.0.bottom/0.0.2133.1160@0.0.2133.1160" timestamp="1587250346487" />
+    <state width="1877" height="198" key="GridCell.Tab.0.center" timestamp="1587250346487">
+      <screen x="0" y="0" width="2133" height="1160" />
+    </state>
+    <state width="1877" height="211" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586783372767" />
+    <state width="2090" height="196" key="GridCell.Tab.0.center/0.0.2133.1160/3200.-776.1920.1040@0.0.2133.1160" timestamp="1586552716558" />
+    <state width="1877" height="244" key="GridCell.Tab.0.center/0.0.2133.1160/3200.-776.1920.1040@3200.-776.1920.1040" timestamp="1587248783162" />
+    <state width="2090" height="196" key="GridCell.Tab.0.center/0.0.2133.1160/700.-1080.1920.1040@0.0.2133.1160" timestamp="1586550348772" />
+    <state width="1877" height="198" key="GridCell.Tab.0.center/0.0.2133.1160@0.0.2133.1160" timestamp="1587250346487" />
+    <state width="1877" height="198" key="GridCell.Tab.0.left" timestamp="1587250346487">
+      <screen x="0" y="0" width="2133" height="1160" />
+    </state>
+    <state width="1877" height="211" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586783372767" />
+    <state width="2090" height="196" key="GridCell.Tab.0.left/0.0.2133.1160/3200.-776.1920.1040@0.0.2133.1160" timestamp="1586552716558" />
+    <state width="1877" height="244" key="GridCell.Tab.0.left/0.0.2133.1160/3200.-776.1920.1040@3200.-776.1920.1040" timestamp="1587248783161" />
+    <state width="2090" height="196" key="GridCell.Tab.0.left/0.0.2133.1160/700.-1080.1920.1040@0.0.2133.1160" timestamp="1586550348772" />
+    <state width="1877" height="198" key="GridCell.Tab.0.left/0.0.2133.1160@0.0.2133.1160" timestamp="1587250346487" />
+    <state width="1877" height="198" key="GridCell.Tab.0.right" timestamp="1587250346487">
+      <screen x="0" y="0" width="2133" height="1160" />
+    </state>
+    <state width="1877" height="211" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586783372767" />
+    <state width="2090" height="196" key="GridCell.Tab.0.right/0.0.2133.1160/3200.-776.1920.1040@0.0.2133.1160" timestamp="1586552716558" />
+    <state width="1877" height="244" key="GridCell.Tab.0.right/0.0.2133.1160/3200.-776.1920.1040@3200.-776.1920.1040" timestamp="1587248783162" />
+    <state width="2090" height="196" key="GridCell.Tab.0.right/0.0.2133.1160/700.-1080.1920.1040@0.0.2133.1160" timestamp="1586550348772" />
+    <state width="1877" height="198" key="GridCell.Tab.0.right/0.0.2133.1160@0.0.2133.1160" timestamp="1587250346487" />
+    <state width="1877" height="198" key="GridCell.Tab.1.bottom" timestamp="1587250346487">
+      <screen x="0" y="0" width="2133" height="1160" />
+    </state>
+    <state width="2090" height="228" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586778646209" />
+    <state width="1877" height="198" key="GridCell.Tab.1.bottom/0.0.2133.1160/3200.-776.1920.1040@3200.-776.1920.1040" timestamp="1587248044181" />
+    <state width="1877" height="198" key="GridCell.Tab.1.bottom/0.0.2133.1160@0.0.2133.1160" timestamp="1587250346487" />
+    <state width="1877" height="198" key="GridCell.Tab.1.center" timestamp="1587250346487">
+      <screen x="0" y="0" width="2133" height="1160" />
+    </state>
+    <state width="2090" height="228" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586778646209" />
+    <state width="1877" height="198" key="GridCell.Tab.1.center/0.0.2133.1160/3200.-776.1920.1040@3200.-776.1920.1040" timestamp="1587248044181" />
+    <state width="1877" height="198" key="GridCell.Tab.1.center/0.0.2133.1160@0.0.2133.1160" timestamp="1587250346487" />
+    <state width="1877" height="198" key="GridCell.Tab.1.left" timestamp="1587250346487">
+      <screen x="0" y="0" width="2133" height="1160" />
+    </state>
+    <state width="2090" height="228" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586778646209" />
+    <state width="1877" height="198" key="GridCell.Tab.1.left/0.0.2133.1160/3200.-776.1920.1040@3200.-776.1920.1040" timestamp="1587248044181" />
+    <state width="1877" height="198" key="GridCell.Tab.1.left/0.0.2133.1160@0.0.2133.1160" timestamp="1587250346487" />
+    <state width="1877" height="198" key="GridCell.Tab.1.right" timestamp="1587250346487">
+      <screen x="0" y="0" width="2133" height="1160" />
+    </state>
+    <state width="2090" height="228" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586778646209" />
+    <state width="1877" height="198" key="GridCell.Tab.1.right/0.0.2133.1160/3200.-776.1920.1040@3200.-776.1920.1040" timestamp="1587248044181" />
+    <state width="1877" height="198" key="GridCell.Tab.1.right/0.0.2133.1160@0.0.2133.1160" timestamp="1587250346487" />
+    <state x="783" y="456" key="ReplaceDuplicatesPrompt" timestamp="1586781670907">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="783" y="456" key="ReplaceDuplicatesPrompt/0.0.1920.1040@0.0.1920.1040" timestamp="1586781670907" />
+    <state x="571" y="226" key="SettingsEditor" timestamp="1586111067858">
+      <screen x="0" y="0" width="2133" height="1160" />
+    </state>
+    <state x="571" y="226" key="SettingsEditor/0.0.2133.1160@0.0.2133.1160" timestamp="1586111067858" />
+    <state width="498" height="400" key="SwitcherDM" timestamp="1586781918089">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="400" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1586781918089" />
+    <state width="498" height="446" key="SwitcherDM/0.0.2133.1160@0.0.2133.1160" timestamp="1586727848005" />
+    <state x="681" y="198" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586726880897">
+      <screen x="0" y="0" width="2133" height="1160" />
+    </state>
+    <state x="681" y="198" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2133.1160@0.0.2133.1160" timestamp="1586726880897" />
+    <state x="839" y="300" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1586726872607">
+      <screen x="0" y="0" width="2133" height="1160" />
+    </state>
+    <state x="839" y="300" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.2133.1160@0.0.2133.1160" timestamp="1586726872607" />
+    <state x="851" y="504" width="540" height="485" key="extract.method.dialog" timestamp="1586781668240">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="851" y="504" width="540" height="485" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586781668240" />
+    <state x="4051" y="-272" key="extract.method.dialog/0.0.2133.1160/3200.-776.1920.1040@3200.-776.1920.1040" timestamp="1586553683428" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/calculadora/CalculadoraTest.java</url>
+          <line>123</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/COVID19/LeeInformacionDeServidorExternoTest.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="get(new By.ByName(&quot;Input&quot;)).ge" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
